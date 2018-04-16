@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <h1> My Registartion Form </h1>
+    <title> My Registartion Form </title>
   </head>
   <body>
     <form>
@@ -30,7 +30,7 @@
       <input type="radio" id="male" name="gender" value="male">
       <label for="female">Female</label>
       <input type="radio" id="female" name="gender" value="female">
-      <label for="other">other</label>
+      <label for="nottosayr">other</label>
       <input type="radio" id="decline" name="gender" value="decline">
       <p>A short descirption about yourself</p>
       <textarea name="description"></textarea><br>
